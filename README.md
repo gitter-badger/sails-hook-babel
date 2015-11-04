@@ -1,4 +1,6 @@
 # sails-hook-babel
+
+[![Join the chat at https://gitter.im/dineshi2it/sails-hook-babel](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dineshi2it/sails-hook-babel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm version](https://badge.fury.io/js/sails-hook-babel.svg)](https://npmjs.org/package/sails-hook-babel) [![Dependency Status](https://img.shields.io/david/artificialio/sails-hook-babel.svg?style=flat)](https://david-dm.org/artificialio/sails-hook-babel)
 
 *Needs at least Sails version 0.11.0 to work*
